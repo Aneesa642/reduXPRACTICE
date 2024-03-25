@@ -1,0 +1,13 @@
+current directory: /Users/alauddinkhan/Documents/AwesomeProject/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+/Users/alauddinkhan/.rvm/rubies/ruby-2.7.6/bin/ruby -I /Users/alauddinkhan/.rvm/rubies/ruby-2.7.6/lib/ruby/2.7.0 -r ./siteconf20231219-34446-s00g1m.rb extconf.rb
+creating Makefile
+
+current directory: /Users/alauddinkhan/Documents/AwesomeProject/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/alauddinkhan/Documents/AwesomeProject/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/alauddinkhan/Documents/AwesomeProject/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make "DESTDIR=" install
