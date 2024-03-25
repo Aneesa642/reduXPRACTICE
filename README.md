@@ -1,0 +1,2 @@
+# reduXPRACTICE
+Ecommerce app
